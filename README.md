@@ -1,14 +1,7 @@
 # Powerlifting-Meets-Dataset     
 We implement and compare two models:
-- **Logistic Regression**
-- **Decision Tree Classifier**
-## 📂 Dataset
-The dataset (Excel.csv) contains the following columns:
-MeetID – Unique identifier for each meet
-Federation – Governing body (target variable)
-Date – Date of the meet
-MeetCountry, MeetState, MeetTown – Location details
-MeetName – Name of the meet
+- Logistic Regression
+- Decision Tree Classifier
 Preprocessing
 1. Drop missing values to ensure clean modeling.
 2. Encode categorical variables  (Federation, Country, State, Town, MeetName).
