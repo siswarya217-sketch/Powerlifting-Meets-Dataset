@@ -2,6 +2,7 @@
 We implement and compare two models:
 - Logistic Regression
 - Decision Tree Classifier
+
 Preprocessing
 1. Drop missing values to ensure clean modeling.
 2. Encode categorical variables  (Federation, Country, State, Town, MeetName).
